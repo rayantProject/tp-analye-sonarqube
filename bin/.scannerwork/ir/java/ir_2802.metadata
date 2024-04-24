@@ -1,0 +1,2 @@
+com.afollestad.aesthetic.AestheticActionMenuItemView#invalidateColors(LActiveInactiveColors;LDrawable;)V
+com.afollestad.aesthetic.AestheticActionMenuItemView#setIcon(LDrawable;LColorStateList;)V

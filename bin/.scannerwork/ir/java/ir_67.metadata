@@ -1,0 +1,5 @@
+com.simplecity.amp_library.playback.MusicService#onBind(LIntent;)LIBinder;
+java.lang.String#equals(Ljava/lang/Object;)Z
+com.simplecity.amp_library.playback.MusicService#cancelShutdown()V
+==
+dropBreadcrumb com.simplecity.amp_library.utils.AnalyticsManager#dropBreadcrumb(Ljava/lang/String;Ljava/lang/String;)V

@@ -1,0 +1,5 @@
+com.simplecity.amp_library.playback.MusicService#onDestroy()V
+null
+==
+dropBreadcrumb com.simplecity.amp_library.utils.AnalyticsManager#dropBreadcrumb(Ljava/lang/String;Ljava/lang/String;)V
+saveState com.simplecity.amp_library.playback.MusicService#saveState(Z)V

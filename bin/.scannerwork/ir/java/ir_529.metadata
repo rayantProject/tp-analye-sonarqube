@@ -1,0 +1,2 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#setMinimumHeightForToolbar()V
+android.support.design.widget.CustomCollapsingToolbarLayout#getHeightWithMargins(LView;)I

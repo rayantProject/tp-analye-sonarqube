@@ -1,0 +1,127 @@
+
+Ycom.simplecity.amp_library.ui.modelviews.FolderView#areContentsEqual(Ljava/lang/Object;)Zê
+É/Users/easyczash/Desktop/mysonar/bin/project/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java‘ ‘(#"startingBlock*%
+2
+ŸP Ÿ(U"
+
+ŸI Ÿ(V
+""*è
+startingBlock
+‘# ‘(1é
+ã
+
+” ”(
+%5"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+otherjava.lang.Object[
+Y
+
+‘+ ‘(0
+otherjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%5*
+10*%
+4
+◊3 ◊(8"
+
+◊, ◊(9
+""*%
+6
+÷D ÷(I"
+
+÷= ÷(J
+""*´
+7
+÷ ÷(%µ≤
+
+÷ ÷('
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*S
+
+__unknown_file (75
+3com.simplecity.amp_library.ui.modelviews.FolderView2
+getClass()ôñ
+
+÷+ ÷(;
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*7
+
+__unknown_file (
+
+otherjava.lang.Object2
+getClass()∑
+¥
+
+÷ ÷(;
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+2
+4
+6
+1*ƒ
+8
+÷ ÷(™
+ß
+
+÷ ÷(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*7
+
+__unknown_file (
+
+otherjava.lang.Object*"
+
+__unknown_file (
+""*
+6
+7*%
+9
+’" ’(&"
+
+’ ’('
+""*ˆ
+10
+’ ’(€
+ÿ
+
+’ ’(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*S
+
+__unknown_file (75
+3com.simplecity.amp_library.ui.modelviews.FolderView*7
+
+__unknown_file (
+
+otherjava.lang.Object*
+8
+9*%
+1
+€ €("
+
+€ €(
+"":'
+
+‘$ ‘(0
+otherjava.lang.ObjectB75
+3com.simplecity.amp_library.ui.modelviews.FolderViewHX

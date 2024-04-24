@@ -1,0 +1,2 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#updateChildViewOffsetHelpers()V
+android.support.design.widget.CustomCollapsingToolbarLayout#getViewOffsetHelper(LView;)LViewOffsetHelper;

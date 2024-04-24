@@ -1,0 +1,6 @@
+com.simplecity.amp_library.ui.widgets.WidgetProviderMedium#update(LMusicService;LSharedPreferences;[IZ)V
+null
+java.lang.String#equals(Ljava/lang/Object;)Z
+com.simplecity.amp_library.utils.ColorUtils#adjustAlpha(IF)I
+==
+getRootViewId com.simplecity.amp_library.ui.widgets.WidgetProviderMedium#getRootViewId()I

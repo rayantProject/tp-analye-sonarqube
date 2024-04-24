@@ -1,0 +1,42 @@
+
+åcom.simplecity.amp_library.ui.settings.SettingsParentFragment#newInstance(II)Lcom/simplecity/amp_library/ui/settings/SettingsParentFragment;ò
+ç/Users/easyczash/Desktop/mysonar/bin/project/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/settings/SettingsParentFragment.javaE) E(4"1*¥
+1F F("_
+]
+G G(+
+%0java.lang.String"__id*3
+
+__unknown_file (
+preference_resourceQ
+O
+H H(
+%1java.lang.String"__id*%
+
+__unknown_file (	
+titleëé
+I. I(DC
+%2=com.simplecity.amp_library.ui.settings.SettingsParentFragment"=com.simplecity.amp_library.ui.settings.SettingsParentFragmentø
+º
+I* I(F
+%3"Gcom.simplecity.amp_library.ui.settings.SettingsParentFragment#<init>()V*a
+
+__unknown_file (E
+C
+%2=com.simplecity.amp_library.ui.settings.SettingsParentFragment¡
+æ
+I I(GI
+fragment=com.simplecity.amp_library.ui.settings.SettingsParentFragment"__id*a
+
+__unknown_file (E
+C
+%2=com.simplecity.amp_library.ui.settings.SettingsParentFragment"W
+K K(K
+I
+fragment=com.simplecity.amp_library.ui.settings.SettingsParentFragment: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BA"?
+=com.simplecity.amp_library.ui.settings.SettingsParentFragmentH

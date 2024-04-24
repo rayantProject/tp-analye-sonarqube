@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.MusicService#cancelShutdown()V
+==
+dropBreadcrumb com.simplecity.amp_library.utils.AnalyticsManager#dropBreadcrumb(Ljava/lang/String;Ljava/lang/String;)V

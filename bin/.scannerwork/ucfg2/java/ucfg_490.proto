@@ -1,0 +1,62 @@
+
+9com.simplecity.amp_library.model.ArtworkModel#hashCode()I‡
+}/Users/easyczash/Desktop/mysonar/bin/project/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/model/ArtworkModel.java. .("4*Z
+20A 0(BF
+D
+0A 0(B	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+1*Ì
+30/ 0(3
+}
+0/ 0(3
+%5java.io.File"__id*W
+
+__unknown_file (;*9/
+-com.simplecity.amp_library.model.ArtworkModel"
+fileom
+0/ 0(>	
+%3int"java.io.File#hashCode()I*0
+
+__unknown_file (
+
+%5java.io.File2
+hashCode()F
+D
+0/ 0(>	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*º
+4/ /(
+}
+0  0($
+%0java.io.File"__id*W
+
+__unknown_file (;*9/
+-com.simplecity.amp_library.model.ArtworkModel"
+file¡
+ž
+0  0(,
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*0
+
+__unknown_file (
+
+%0java.io.File*"
+
+__unknown_file (
+""*
+2
+3*!
+10 0(C"
+1 1(
+""B1/
+-com.simplecity.amp_library.model.ArtworkModelHX

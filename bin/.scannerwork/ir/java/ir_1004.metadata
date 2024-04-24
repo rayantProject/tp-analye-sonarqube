@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.views.DragHandle#onAttachedToWindow()V
+==
+onAttachedToWindow com.simplecity.amp_library.ui.views.AestheticTintedImageView#onAttachedToWindow()V
+getColorObservable com.simplecity.amp_library.ui.views.DragHandle#getColorObservable()LObservable;

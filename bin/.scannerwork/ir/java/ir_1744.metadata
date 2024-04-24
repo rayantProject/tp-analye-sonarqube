@@ -1,0 +1,5 @@
+android.support.design.widget.CustomCollapsingTextHelper#drawTitle(LCanvas;)V
+android.support.design.widget.CustomCollapsingTextHelper#drawSubText(LCanvas;FF)V
+android.support.design.widget.CustomCollapsingTextHelper#drawDebugRect(LCanvas;FFF)V
+==
+length java.lang.CharSequence#length()I

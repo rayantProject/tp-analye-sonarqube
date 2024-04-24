@@ -1,0 +1,6 @@
+com.simplecity.amp_library.playback.MusicService#onCreate()V
+null
+com.simplecity.amp_library.playback.MusicService#scheduleDelayedShutdown()V
+==
+dropBreadcrumb com.simplecity.amp_library.utils.AnalyticsManager#dropBreadcrumb(Ljava/lang/String;Ljava/lang/String;)V
+registerExternalStorageListener com.simplecity.amp_library.playback.MusicService#registerExternalStorageListener()V

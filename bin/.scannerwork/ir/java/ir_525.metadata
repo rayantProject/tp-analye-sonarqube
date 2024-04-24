@@ -1,0 +1,6 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#onLayout(ZIIII)V
+android.support.design.widget.CustomCollapsingToolbarLayout#shiftNonSystemWindowsViews()V
+android.support.design.widget.CustomCollapsingToolbarLayout#updateScrimVisibility()V
+android.support.design.widget.CustomCollapsingToolbarLayout#setMinimumHeightForToolbar()V
+android.support.design.widget.CustomCollapsingToolbarLayout#updateCollapsedBounds()V
+android.support.design.widget.CustomCollapsingToolbarLayout#updateChildViewOffsetHelpers()V

@@ -1,0 +1,54 @@
+
+Dcom.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;Å
+u/Users/easyczash/Desktop/mysonar/bin/project/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/model/Song.javaŒ Œ("3*º
+2
+– –(•¢
+
+– –(
+
+%2void"3com.simplecity.amp_library.model.Song#setSortKey()V*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2setSortKey()*
+1*ƒ
+3
+œ œ(Ä
+~
+
+œ œ(
+%0java.lang.String"__id*R
+
+__unknown_file (6*4'
+%com.simplecity.amp_library.model.Song"	
+sortKeyß
+§
+
+œ œ(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*
+2
+1*∫
+1
+“ “(Ä
+~
+
+“ “(
+%3java.lang.String"__id*R
+
+__unknown_file (6*4'
+%com.simplecity.amp_library.model.Song"	
+sortKey"&
+
+“ “(
+
+%3java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

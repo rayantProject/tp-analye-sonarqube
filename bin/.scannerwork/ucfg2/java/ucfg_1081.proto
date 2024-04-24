@@ -1,0 +1,65 @@
+
+tcom.simplecity.amp_library.utils.color.ColorHelper#getInstance()Lcom/simplecity/amp_library/utils/color/ColorHelper;ç
+Ç/Users/easyczash/Desktop/mysonar/bin/project/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java* *()"4*Ì
+2- -(-zx
+-  -(+8
+%32com.simplecity.amp_library.utils.color.ColorHelper"2com.simplecity.amp_library.utils.color.ColorHelper©
+¶
+- -(-
+%4"<com.simplecity.amp_library.utils.color.ColorHelper#<init>()V*V
+
+__unknown_file (:
+8
+%32com.simplecity.amp_library.utils.color.ColorHelper∞
+≠
+- -(-C4
+2com.simplecity.amp_library.utils.color.ColorHelper"
+	sInstance"__id*V
+
+__unknown_file (:
+8
+%32com.simplecity.amp_library.utils.color.ColorHelper*
+1*í
+3, ,(∞
+≠
+, ,(8
+%12com.simplecity.amp_library.utils.color.ColorHelper"__id*a
+
+__unknown_file (E*C4
+2com.simplecity.amp_library.utils.color.ColorHelper"
+	sInstance«
+ƒ
+, ,(!
+%2boolean"	__compare*"
+
+__unknown_file (
+==*V
+
+__unknown_file (:
+8
+%12com.simplecity.amp_library.utils.color.ColorHelper*"
+
+__unknown_file (
+""*
+2
+1*b
+4+ +(N
+L
++ +(
+%0java.lang.Object"__id*"
+
+__unknown_file (
+""*
+3*à
+1/ /(∞
+≠
+/ /(8
+%52com.simplecity.amp_library.utils.color.ColorHelper"__id*a
+
+__unknown_file (E*C4
+2com.simplecity.amp_library.utils.color.ColorHelper"
+	sInstance"F
+/ /(:
+8
+%52com.simplecity.amp_library.utils.color.ColorHelperB6"4
+2com.simplecity.amp_library.utils.color.ColorHelperH

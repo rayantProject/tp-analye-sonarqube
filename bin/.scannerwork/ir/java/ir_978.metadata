@@ -1,0 +1,9 @@
+com.simplecity.amp_library.glide.fetcher.TypeFetcher#loadData(LPriority;)Ljava/io/InputStream;
+com.simplecity.amp_library.glide.fetcher.MediaStoreFetcher#instance-init#
+null
+com.simplecity.amp_library.glide.fetcher.RemoteFetcher#<init>(LArtworkProvider;)V
+com.simplecity.amp_library.glide.fetcher.MediaStoreFetcher#<init>(LContext;LArtworkProvider;)V
+com.simplecity.amp_library.glide.fetcher.TypeFetcher#loadData(LDataFetcher;LPriority;)Ljava/io/InputStream;
+com.simplecity.amp_library.glide.fetcher.TagFetcher#instance-init#
+com.simplecity.amp_library.glide.fetcher.RemoteFetcher#instance-init#
+com.simplecity.amp_library.glide.fetcher.TagFetcher#<init>(LArtworkProvider;)V

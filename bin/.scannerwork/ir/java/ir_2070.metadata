@@ -1,0 +1,2 @@
+com.simplecity.amp_library.ui.screens.main.LibraryController#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;
+com.simplecity.amp_library.ui.screens.main.LibraryController#setupViewPager()V

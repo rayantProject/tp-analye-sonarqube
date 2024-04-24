@@ -1,0 +1,5 @@
+com.simplecity.amp_library.ui.views.AestheticDrawableTextView#onAttachedToWindow()V
+com.afollestad.aesthetic.Rx#onErrorLogAndRethrow()LConsumer;
+com.afollestad.aesthetic.Rx#distinctToMainThread()LObservableTransformer;
+==
+invalidateColors com.simplecity.amp_library.ui.views.AestheticDrawableTextView#invalidateColors(I)V

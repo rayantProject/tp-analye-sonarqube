@@ -1,0 +1,5 @@
+com.simplecity.amp_library.playback.MusicService#scheduleDelayedShutdown()V
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+==
+dropBreadcrumb com.simplecity.amp_library.utils.AnalyticsManager#dropBreadcrumb(Ljava/lang/String;Ljava/lang/String;)V
+isPlaying com.simplecity.amp_library.playback.MusicService#isPlaying()Z

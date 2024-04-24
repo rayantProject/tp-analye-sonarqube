@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.screens.drawer.DrawerAdapter#onBindParentViewHolder(LParentViewHolder;ILParent;)V
+==
+getParentViewType com.simplecity.amp_library.ui.screens.drawer.DrawerAdapter#getParentViewType(I)I

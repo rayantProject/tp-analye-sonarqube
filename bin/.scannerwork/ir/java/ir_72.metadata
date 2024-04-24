@@ -1,0 +1,4 @@
+com.simplecity.amp_library.playback.MusicService#onTaskRemoved(LIntent;)V
+==
+dropBreadcrumb com.simplecity.amp_library.utils.AnalyticsManager#dropBreadcrumb(Ljava/lang/String;Ljava/lang/String;)V
+isPlaying com.simplecity.amp_library.playback.MusicService#isPlaying()Z

@@ -1,0 +1,5 @@
+com.simplecity.amp_library.ui.widgets.WidgetProviderMedium#initialiseWidget(LContext;LSharedPreferences;I)V
+null
+com.simplecity.amp_library.utils.ColorUtils#adjustAlpha(IF)I
+==
+getRootViewId com.simplecity.amp_library.ui.widgets.WidgetProviderMedium#getRootViewId()I
